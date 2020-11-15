@@ -1,0 +1,18 @@
+[submodule "git-submodule"]
+	path = git-submodule
+	url = git@github.com:hmdprs/git-submodule.git
+[submodule "docker-flask-redis"]
+	path = docker-flask-redis
+	url = git@github.com:hmdprs/docker-flask-redis.git
+[submodule "docker-flask-nginx-uwsgi"]
+	path = docker-flask-nginx-uwsgi
+	url = git@github.com:hmdprs/docker-flask-nginx-uwsgi.git
+[submodule "git-submodule-split"]
+	path = git-submodule-split
+	url = git@github.com:hmdprs/git-submodule-split.git
+[submodule "streamlit-nlp"]
+	path = streamlit-nlp
+	url = git@github.com:hmdprs/streamlit-nlp.git
+[submodule "idiomatic-python"]
+	path = idiomatic-python
+	url = git@github.com:hmdprs/idiomatic-python.git
